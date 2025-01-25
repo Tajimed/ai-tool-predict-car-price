@@ -18,12 +18,12 @@ To learn more about the **Refcar** web platform, including how we handle car pri
 
 We currently support the following car brands on the **Refcar** platform:
 
-- **[Toyota](https://refcar.ma)**
-- **Honda**
-- **BMW**
+- **[Renault](https://www.refcar.ma/voitures-occasion/marque/renault/)**
+- **[Toyota](https://www.refcar.ma/voitures-occasion/marque/toyota/)**
+- **[Honda](https://www.refcar.ma/voitures-occasion/marque/honda/)**
+- **[BMW](https://www.refcar.ma/voitures-occasion/marque/BMW/)**
+- **[Peugeot](https://www.refcar.ma/voitures-occasion/marque/Peugeot/)**
 - **Mercedes-Benz**
-- **Renault**
-- **Peugeot**
 - **Volkswagen**
 - **Ford**
 - **Hyundai**
